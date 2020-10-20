@@ -1,2 +1,4 @@
 This is a web application that enables peer-to-peer video conferencing with visual feedback on interlocutors' emotional states.
 Developed as an HCI project by Hao Huang and Eylul Ertay
+
+Supervisors: Dr. Tilman Dingler and Dr. Zhanna Sarsenbayeva 
